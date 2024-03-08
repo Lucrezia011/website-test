@@ -1,0 +1,10 @@
+<script lsng="ts" context="module">
+	import { create } from '$cms';
+
+	export const props = create(progetti, {
+		titolo: 'Join',
+		tag: ['Web dev', 'UI/UX']
+	});
+</script>
+
+<h1>Join</h1>
